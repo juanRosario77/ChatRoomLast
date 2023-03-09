@@ -431,6 +431,14 @@
           }
         }
       },
+      "NSwag.Annotations/13.18.2": {
+        "runtime": {
+          "lib/netstandard2.0/NSwag.Annotations.dll": {
+            "assemblyVersion": "13.18.2.0",
+            "fileVersion": "13.18.2.0"
+          }
+        }
+      },
       "NuGet.Frameworks/5.11.0": {
         "runtime": {
           "lib/netstandard2.0/NuGet.Frameworks.dll": {
@@ -842,6 +850,7 @@
         "dependencies": {
           "DataAccessLayer": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.0",
+          "NSwag.Annotations": "13.18.2",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
@@ -1045,6 +1054,13 @@
       "sha512": "sha512-U82mHQSKaIk+lpSVCbWYKNavmNH1i5xrExDEquU1i6I5pV6UMOqRnJRSlKO3cMPfcpp0RgDY+8jUXHdQ4IfXvw==",
       "path": "newtonsoft.json/9.0.1",
       "hashPath": "newtonsoft.json.9.0.1.nupkg.sha512"
+    },
+    "NSwag.Annotations/13.18.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2zDLZXEU1PVuvdMc1k+SIkLonp8vPRHAkto6qQfCeCPqhDaF82+FOWe3TLJIYBS8IC7aV/mT+eoqJLeZvXiN4A==",
+      "path": "nswag.annotations/13.18.2",
+      "hashPath": "nswag.annotations.13.18.2.nupkg.sha512"
     },
     "NuGet.Frameworks/5.11.0": {
       "type": "package",

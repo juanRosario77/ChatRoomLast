@@ -643,6 +643,19 @@
           }
         }
       },
+      "NSwag.Annotations/13.18.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NSwag.Annotations.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/NSwag.Annotations.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "NuGet.Frameworks/5.11.0": {
         "type": "package",
         "compile": {
@@ -1388,6 +1401,7 @@
         "dependencies": {
           "DataAccessLayer": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.0",
+          "NSwag.Annotations": "13.18.2",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "compile": {
@@ -2865,6 +2879,24 @@
         "newtonsoft.json.9.0.1.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "tools/install.ps1"
+      ]
+    },
+    "NSwag.Annotations/13.18.2": {
+      "sha512": "2zDLZXEU1PVuvdMc1k+SIkLonp8vPRHAkto6qQfCeCPqhDaF82+FOWe3TLJIYBS8IC7aV/mT+eoqJLeZvXiN4A==",
+      "type": "package",
+      "path": "nswag.annotations/13.18.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "NuGetIcon.png",
+        "lib/net45/NSwag.Annotations.dll",
+        "lib/net45/NSwag.Annotations.xml",
+        "lib/netstandard1.0/NSwag.Annotations.dll",
+        "lib/netstandard1.0/NSwag.Annotations.xml",
+        "lib/netstandard2.0/NSwag.Annotations.dll",
+        "lib/netstandard2.0/NSwag.Annotations.xml",
+        "nswag.annotations.13.18.2.nupkg.sha512",
+        "nswag.annotations.nuspec"
       ]
     },
     "NuGet.Frameworks/5.11.0": {

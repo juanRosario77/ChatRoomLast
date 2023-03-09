@@ -78,3 +78,44 @@ C:\Users\User\Documents\Visual Studio 2022\Proyect\Test\Test1\come2chat-main\Cha
 C:\Users\User\Documents\Visual Studio 2022\Proyect\Test\Test1\come2chat-main\ChatRoomApplication\Api\obj\Debug\net7.0\ChatRoomApplication.pdb
 C:\Users\User\Documents\Visual Studio 2022\Proyect\Test\Test1\come2chat-main\ChatRoomApplication\Api\obj\Debug\net7.0\ChatRoomApplication.genruntimeconfig.cache
 C:\Users\User\Documents\Visual Studio 2022\Proyect\Test\Test1\come2chat-main\ChatRoomApplication\Api\obj\Debug\net7.0\ref\ChatRoomApplication.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\ChatRoomApplication.exe
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\ChatRoomApplication.deps.json
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\ChatRoomApplication.runtimeconfig.json
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\ChatRoomApplication.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\ChatRoomApplication.pdb
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\Domain.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\Domain.pdb
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\ChatRoomApplication.csproj.AssemblyReference.cache
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\ChatRoomApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\ChatRoomApplication.AssemblyInfoInputs.cache
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\ChatRoomApplication.AssemblyInfo.cs
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\ChatRoomApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\ChatRoomApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\ChatRoomApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\staticwebassets\msbuild.ChatRoomApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ChatRoomApplication.props
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChatRoomApplication.props
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChatRoomApplication.props
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\scopedcss\bundle\ChatRoomApplication.styles.css
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\ChatRoomApplication.csproj.CopyComplete
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\ChatRoomApplication.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\refint\ChatRoomApplication.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\ChatRoomApplication.pdb
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\ChatRoomApplication.genruntimeconfig.cache
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\obj\Debug\net7.0\ref\ChatRoomApplication.dll
+C:\Users\User\Documents\prueba\ChatRoomApplication\Api\bin\Debug\net7.0\NSwag.Annotations.dll
